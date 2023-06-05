@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...elektronika
 - 🌱 I’m currently learning ...wszystkiego
 - 💞️ I’m looking to collaborate on ...wszystkim
-- 📫 How to reach me ...siedemgalax@gmail.com
+- 📫 How to reach me ...
 
 <!---
 SiedemGalax/SiedemGalax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
